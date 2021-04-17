@@ -1,0 +1,10 @@
+{
+    "require": {
+        "ray/di": "^2.12"
+    },
+    "autoload": {
+        "psr-4": {
+            "RayDiTest\\": "src/"
+        }
+    }
+}
